@@ -3,7 +3,7 @@
 In this Project, I worked with the IPL Data from 2008 to 2019 and performed various EDA techniques and derived useful insights in Python using the Numpy, Pandas, Matplotib & Seaborn Libraries
 
 Using EDA & Visualization, we tried to answer the following questions:
-1) Total nmuber of amtches played in each season
+1) Total number of matches played in each season
 2) Which team has won the most number of matches overall
 3) How the team's decision to bowl or bat first affected the match result
 4) What captains preferred more after winning the toss
